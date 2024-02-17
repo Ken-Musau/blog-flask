@@ -26,7 +26,7 @@ This project demonstrates a simple blog application built using Flask, SQLAlchem
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/flask-blog.git
+   git clone https://github.com/Ken-Musau/flask-blog.git
    ```
 
 2. Install dependencies:
