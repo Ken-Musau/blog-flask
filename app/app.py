@@ -16,3 +16,7 @@ db.init_app(app)
 @app.route("/")
 def welcome():
     return "<h1>Welcome to my blog </h2>"
+
+
+if __name__ == "__main__":
+    app.run(port=5555, debug=True)
